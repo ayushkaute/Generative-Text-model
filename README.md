@@ -12,6 +12,10 @@
 
 *MENTOR: NEELA SANTOSH
 
+OUTPUT:
+
+<img width="1770" height="592" alt="Image" src="https://github.com/user-attachments/assets/d0be4aa9-43bb-4309-9a96-71ce952c5e94" />
+
 DESCRIPTION:
 
 This Python script demonstrates a simple LSTM-based text generation model using PyTorch. It includes a custom tokenizer, vocabulary builder, and a basic LSTM neural network to process a short sequence of words and output predictions for the next words. LSTM networks are a special kind of Recurrent Neural Network (RNN) capable of learning long-term dependencies, making them useful for tasks involving sequences like text, speech, or time series.
